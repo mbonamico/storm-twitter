@@ -14,7 +14,7 @@ For more information reference the [storm concepts wiki](https://github.com/nath
 
 
 # Dependencies
-    $ install and configure [storm] (https://github.com/nathanmarz/storm/wiki/Setting-up-development-environment) 
+    $ install and configure storm. Guidelines here -> https://github.com/nathanmarz/storm/wiki/Setting-up-development-environment
  
 # Configuration:
     $ git clone proj.git
